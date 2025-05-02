@@ -1,0 +1,2 @@
+Este programa está hecho con el lenguaje de programación "C" en el entorno de desarrollo integrado "Visual Studio Code".
+Lo que hace este código es sumar los 20 números que ingrese el usuario (20 números por que así lo pide bucle "for" empleado aquí).
