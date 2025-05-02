@@ -1,1 +1,2 @@
-
+Este programa está hecho con el lenguaje de programación "C" en el entorno de desarrollo integrado "Visual Studio Code". 
+Lo que hace este código es analizar si cualquier número, de los que haya escrito el usuario cuando se le pidió uno, es o no múltiplo de 3 (tres).
