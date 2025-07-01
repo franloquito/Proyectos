@@ -1,2 +1,0 @@
-Éste simple programa lo que hace es mostrarle un mensaje al usuario como "¡Hola, mundo!" a través del comando cout. 
-También se usa return 0 para que el usuario puede ver la salida de información, es decir, el mensaje de "Hola mundo". 
